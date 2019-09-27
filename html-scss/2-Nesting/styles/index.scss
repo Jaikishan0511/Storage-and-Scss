@@ -1,0 +1,21 @@
+$color: black;
+$txtclr: blue;
+$parafontsize: 20px;
+header {
+  background-color: $color;
+  display: flex;
+  justify-content: center;
+  color: $txtclr;
+  p {
+    font-size: $parafontsize;
+  }
+}
+nav {
+  background-color: Red;
+}
+a {
+  text-decoration: none;
+  &:hover {
+    color: aqua;
+  }
+}

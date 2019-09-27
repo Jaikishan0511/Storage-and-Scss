@@ -1,0 +1,13 @@
+$color: black;
+$txtclr: blue;
+$parafontsize: 20px;
+@import "./header";
+nav {
+  background-color: Red;
+}
+a {
+  text-decoration: none;
+  &:hover {
+    color: aqua;
+  }
+}

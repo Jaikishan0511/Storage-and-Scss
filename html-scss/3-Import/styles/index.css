@@ -1,0 +1,27 @@
+header {
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: blue;
+}
+
+header p {
+  font-size: 20px;
+}
+
+nav {
+  background-color: Red;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+}
+/*# sourceMappingURL=index.css.map */

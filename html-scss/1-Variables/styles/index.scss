@@ -1,0 +1,9 @@
+$primarybtn:blue; 
+$color:yellow;
+$txtclr:orange;
+header{
+  background-color:$color ;  
+  display:flex;
+  justify-content: center;
+  color:$txtclr;
+}

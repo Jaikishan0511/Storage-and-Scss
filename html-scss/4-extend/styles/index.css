@@ -1,0 +1,15 @@
+header, p {
+  background-color: green;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: green;
+}
+
+p {
+  background: black;
+}
+/*# sourceMappingURL=index.css.map */
